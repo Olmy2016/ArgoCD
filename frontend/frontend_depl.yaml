@@ -12,6 +12,7 @@ spec:
   strategy: {}
   template:
     metadata:
+      labels:
         app: frontend
     spec:
       containers:
