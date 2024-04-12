@@ -19,6 +19,4 @@ spec:
         name: backend
         ports:
         - containerPort: 5001
-        resources: {}
-status: {}
 
